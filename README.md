@@ -1,8 +1,10 @@
 # What's new in TensorFlow 2.x
 
+There were a bunch of things changed from Romeo's videos that you have to improvise with in order to perform the commands. Also why doesn't he use Git command line like Malika? Very frustrating.
+
 The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
 
-* Eager Execution / tf.function HOW COULD YOU DO THIS TO ME???
+* Eager Execution / tf.function
 * Integration of the Keras API
 * Facilitated distributed training
 * TF Data
